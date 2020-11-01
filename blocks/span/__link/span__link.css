@@ -1,0 +1,9 @@
+.span__link{
+text-transform: uppercase;
+color: #AAAAAA;
+font-family: Inter;
+margin-top: 106px;
+    letter-spacing: 0.2em;
+    font-size: 12px;
+    line-height: 12px; 
+}
