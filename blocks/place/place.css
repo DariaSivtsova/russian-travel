@@ -16,13 +16,13 @@
     .place{
         grid-template-columns: 340px 1fr;
         gap: 48px 28px;
-        margin: 0 auto;
+    
     }
 }
 @media screen and (max-width: 767px) {
     .place{
         grid-template-columns: 1fr;
         gap: 32px 28px;
-        margin: 0 auto;
+    
     }
 }
