@@ -1,6 +1,6 @@
 ## Проект 3: Путешествие по России
 В данном проекте Вы сможете найти интересную информацию, касающуюся путешествий по России.
-Посмотреть проект можно по ссылке [https://dariasivtsova.github.io/russian-travel/] (https://dariasivtsova.github.io/russian-travel/)
+Посмотреть проект можно по ссылке [https://dariasivtsova.github.io/russian-travel/](https://dariasivtsova.github.io/russian-travel/)
 
 Много красивых фотографий природы и краткое описание самых необычных мест не может оставить кого-то равнодушным.
 
