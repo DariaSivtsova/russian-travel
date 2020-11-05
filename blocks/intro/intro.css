@@ -2,19 +2,21 @@
     margin: 92px 394px 92px 100px;
     width: 690px;
 }
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1279px){
     .intro{
-        margin: 92px 238px 92px 100px;
+        width: 720px;
+        margin: 92px 238px 92px 0;
     }
 }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1023px){
     .intro{
-        margin: auto 0;
+        margin: 88px auto 88px;
         width: 720px;
     }
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 767px){
     .intro{
-        width: 100%;
+        margin: 64px auto 64px;
+        width: calc(100% - 16px * 2);
     }
 }

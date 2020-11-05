@@ -1,0 +1,8 @@
+.place__link-url{
+    text-transform: uppercase;
+    color: #AAAAAA;
+    margin: 0 0 12px 0;
+    letter-spacing: 0.2em;
+    font-size: 12px;
+    line-height: 12px; 
+}

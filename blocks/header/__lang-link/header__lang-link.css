@@ -1,13 +1,25 @@
 .header__lang-link{
-list-style-type: none;
-padding: 0;
-width: max-content;
-display: flex;
-flex-direction: row;
-text-align: center;
-margin: 18px 0 0 auto;
-
-    
-
-
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 3px auto;
+    align-self: flex-end;
+    color: white;  
+    text-decoration: none;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: normal;
 }
+.header__lang-link:hover{
+    opacity: 0.8;
+ }
+ @media screen and (max-width: 767px){
+    .header__lang-link{
+        font-size: 18px;
+        line-height: 20px;
+        margin: 0 0 4px auto;
+        
+    }
+}
+ 

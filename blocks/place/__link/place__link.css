@@ -1,9 +1,11 @@
 .place__link{
-text-transform: uppercase;
-color: #AAAAAA;
-font-family: Inter;
-margin-top: 106px;
-    letter-spacing: 0.2em;
-    font-size: 12px;
-    line-height: 12px; 
+    display: block;
+    font-size: 18px; 
+    line-height: 22px; 
+    color: white;
 }
+.place__link:hover{
+    opacity: 0.8;
+ }
+ 
+ 

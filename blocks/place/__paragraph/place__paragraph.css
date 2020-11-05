@@ -1,15 +1,13 @@
 .place__paragraph{
-    font-size: 18px;
-    line-height: 163%;
-    margin: 0 auto;
+        margin: 0 auto;
 }
 
-.place__paragraph :first-child{
+.place__paragraph:first-child{
     margin-top: 0;
 }
 
 @media screen and (max-width: 767px){
-    .place__paragraph{
+    .place__paragraph_text{
         width: calc(100% - 16px * 2);
     }
 }
