@@ -1,7 +1,7 @@
 .place__link{
     display: block;
-    font-size: 18px; 
-    line-height: 22px; 
+    font-size: 18px;
+    line-height: 22px;
     color: white;
 }
 .place__link:hover{

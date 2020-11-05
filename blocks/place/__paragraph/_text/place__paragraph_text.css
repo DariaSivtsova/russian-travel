@@ -27,7 +27,7 @@
   .place__paragraph_text{
     width: calc(100% - 16px * 2);
     margin: 0 auto;
-    Font-size: 16px;
+    font-size: 16px;
     line-height: 163%;
     }
 }
