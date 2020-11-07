@@ -1,22 +1,24 @@
 .intro{
-    margin: 92px 394px 92px 100px;
+    margin: 92px 148px 92px 148px;
     width: 690px;
 }
 @media screen and (max-width: 1279px){
     .intro{
-        width: 720px;
-        margin: 92px 238px 92px 0;
+      margin: 92px 48px 92px 48px;
     }
-}
-@media screen and (max-width: 1023px){
+  }
+  @media screen and (max-width: 1023px){
     .intro{
-        margin: 88px auto 88px;
-        width: 720px;
+        width: calc(100% - 2 * 24px);
+        margin: 92px 24px 92px 24px;
     }
-}
-@media screen and (max-width: 767px){
+  }
+  @media screen and (max-width: 767px){
     .intro{
-        margin: 64px auto 64px;
-        width: calc(100% - 16px * 2);
+        width: calc(100% - 2 * 16px);
+        margin: 64px 16px 64px 16px;
     }
-}
+  }
+  
+  
+  

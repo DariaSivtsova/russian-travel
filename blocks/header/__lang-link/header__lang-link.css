@@ -3,7 +3,7 @@
     padding: 0;
     display: flex;
     flex-direction: row;
-    margin: 0 0 3px auto;
+    margin: 0 0 3px 18px;
     align-self: flex-end;
     color: white;
     text-decoration: none;
@@ -18,7 +18,7 @@
     .header__lang-link{
         font-size: 18px;
         line-height: 20px;
-        margin: 0 0 4px auto;
+        margin: 0 0 4px 18px;
         
     }
 }

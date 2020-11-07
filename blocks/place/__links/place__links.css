@@ -7,6 +7,20 @@
 
     
 }
+@media screen and (max-width: 1279px){
+    .place__links{
+        width: calc(100% - 2 * 48px);
+        margin: 0 48px 0 0;
+    }
+}
+
+@media screen and (max-width: 1023px){
+    .place__links{
+        width: calc(100% - 2 * 24px);
+        margin: 0 24px 0 0;
+    }
+}
+
 @media screen and (max-width: 767px){
     .place__links{
         display: none;

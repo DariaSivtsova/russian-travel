@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 460px 1fr;
     gap: 48px 40px;
-    margin-bottom: 80px;
+    margin: 0 148px 80px 148px;
     
 }
 .place:last-child{
@@ -12,14 +12,15 @@
     .place{
         grid-template-columns: 440px 1fr;
         gap: 48px 32px;
-        margin: 0 auto 80px;
+        width: 100%;
+        margin: 0 48px 80px 48px;
     }
 }
 @media screen and (max-width: 1023px){
     .place{
         grid-template-columns: 340px 1fr;
         gap: 48px 28px;
-        margin: 0 auto 73px;
+        margin: 0 0 73px 24px;
     }
     .place:last-child{
         margin-bottom: 90px;
