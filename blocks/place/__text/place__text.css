@@ -2,7 +2,6 @@
   margin: 0;
   font-size: 18px;
   line-height: 163%;
-  
 }
 .place__text:first-child{
   margin-top: 0;
@@ -14,7 +13,6 @@
   margin-bottom: 0;
   
 }
-
 
 @media screen and (max-width: 1279px){
   .place__text{

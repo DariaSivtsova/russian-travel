@@ -11,8 +11,3 @@
 
     }
 }
-@media screen and (max-width: 1023px){
-    .lead__image{
-        height: 90.5vw / 1.6;
-    }
-}
